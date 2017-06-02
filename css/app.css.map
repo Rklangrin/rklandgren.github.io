@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAmBE,aAAS;EACP,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,EAAE;EACX,OAAO,EAAE,KAAK;;ACjBlB,IAAI;EACF,UAAU,EAAE,OAAc;ECgCxB,MAAM,ED/BF,KAAK;ECsCT,KAAK,EDtCD,KAAK;EACX,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;;AAEb,CAAC;EACC,WAAW,EAAE,SAAS",
-"sources": ["0-plugins/bourbon/bourbon/library/_clearfix.scss","3-layouts/home.sass","0-plugins/bourbon/bourbon/library/_size.scss"],
-"names": [],
-"file": "app.css"
-}
